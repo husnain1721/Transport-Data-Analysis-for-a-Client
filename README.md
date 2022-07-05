@@ -1,1 +1,4 @@
 # Transport-Data-Analysis-for-a-Client
+The project is about data analysis for a transportation company. The project could be shared and shown in real time. Below is the information being shown in dashboard created:
+1. Main Page : Average journey distance, average daily passengers, bus routes in operation, average bus fleet, MRT, tota buses, year wise car population, year wise buses population, yearly vehicles production, annual vehicals production, yearly driving license holders, average distance trip by mode, license class wise qualified driving license holder, distance wise fares, capcity wise annual bus population, total annual new registrations, Annual CC wise car population, annual car population.
+2. Fare Details Page: Student card fares, workfare transport concession card fees, senior citizens card fee, person with disabilities card fee, adult card fee and category wise fare card and fare cash details of feeder bus service.
